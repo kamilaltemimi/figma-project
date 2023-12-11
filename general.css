@@ -1,0 +1,39 @@
+.body__flexbox{
+margin: 0px;
+}
+
+.header__top{
+height: 30px;
+width: 1440px;
+background-color: black;
+color: black;
+display: flex;
+justify-content:center ;
+}
+
+.header__top_content{
+  color: white;
+  width: 1200px;
+}
+   
+.header__middle{
+
+}
+
+
+.header__bottom{
+
+
+}
+
+.main_content{
+
+}
+
+.bottom_content__top{
+
+}
+
+.bottom_content__bottom{
+
+}
